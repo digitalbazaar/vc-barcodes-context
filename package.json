@@ -1,6 +1,6 @@
 {
   "name": "@digitalbazaar/vc-barcodes-context",
-  "version": "0.0.1-0",
+  "version": "1.0.0",
   "description": "Verifiable Credentials Barcodes Contexts for JavaScript",
   "type": "module",
   "main": "./lib/index.js",
